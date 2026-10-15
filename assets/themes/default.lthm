@@ -1,0 +1,6 @@
+normal_bg||31||31||40
+normal_fg||214||214||214
+selected_bg||42||22||42
+selected_fg||206||163||118
+gradient_begin||206||163||118
+gradient_end||31||31||40

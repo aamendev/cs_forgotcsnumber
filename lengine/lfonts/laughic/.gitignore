@@ -1,0 +1,9 @@
+*.sh
+*.o
+main
+assets/
+plan.md
+*.jpeg
+*.png
+*.jpg
+main_util.c
